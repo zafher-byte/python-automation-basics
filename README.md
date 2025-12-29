@@ -10,6 +10,18 @@ The main goal is to learn how Python can be used to automate repetitive tasks an
 ## 📌 What You Will Find Here
 
 - Simple automation scripts
+
+    ## 📂 File Rename Automation
+
+  **file_rename.py** is a simple Python automation script that renames all files in a selected folder.
+
+  ### What this script does:
+  - Renames files using a clean numbered format (file_1, file_2, etc.)
+  - Keeps the original file extensions
+  - Skips folders and only processes files
+  - Helps practice basic file handling and automation logic
+
+
 - File handling examples
 - CSV and basic data processing
 - Small scripts created for learning and practice
@@ -27,3 +39,5 @@ All scripts are beginner-friendly and focused on clarity.
 ---
 
 ## 📂 Repository Structure
+
+
